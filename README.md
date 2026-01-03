@@ -76,12 +76,6 @@ The lab focuses on building a strong foundation in **Object-Oriented Programming
 
 ---
 
-### 🔹 Experiment 9: JDBC Database Connectivity
-- Database connection using JDBC
-- CRUD operations (Insert, Update, Delete, Retrieve)
-
----
-
 ## 🛠️ Tools & Technologies Used
 
 - Java (JDK)
